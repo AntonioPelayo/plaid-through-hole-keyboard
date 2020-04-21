@@ -1,7 +1,9 @@
 Plaid
 ===============
 
-![plaid](./doc/img/antonio-plaid.jpeg)
+<img src="https://raw.githubusercontent.com/AntonioPelayo/plaid-through-hole-keyboard/master/doc/img/antonio-plaid.jpeg" style="width:75%; text-align:center;">
+
+<img src="https://raw.githubusercontent.com/AntonioPelayo/plaid-through-hole-keyboard/master/doc/img/antonio-layout0.png" style="width:75%; text-align:center;">
 
 The 4x12 ortholinear keyboard kit made by through hole components only. 
 
