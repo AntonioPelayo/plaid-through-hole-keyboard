@@ -26,3 +26,10 @@ pcb/plate.dwg
 *.net
 pcb/plaid_plate.pro
 pcb/plaid_plate.kicad_pcb
+*.DS_Store
+doc/plaid_layout_plaid_grid_mine.json
+doc/plaid_layout_plaid_grid_mine.json.hex
+doc/QMK Configurator.pdf
+doc/antonio-config-master.hex
+doc/img/antonio-plaid-pcb.jpeg
+doc/img/antonio-plaid.jpeg
